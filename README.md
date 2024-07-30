@@ -1,5 +1,4 @@
-# robotics-training
-Exercises using python to control AR4 robot arm
+# Twist Resources Training Courses
 
 This repository contains the course notes and exercises for various subjects:
 
