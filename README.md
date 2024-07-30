@@ -31,5 +31,5 @@ Some of these technologies, and specifically AI, will require massive capitalisa
 
 These courses are intended to give our employees a glimpse into, and understanding of the future.
 
-- Philip Callender, July 2024
+  \- Philip Callender, July 2024
 
