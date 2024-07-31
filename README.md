@@ -2,7 +2,7 @@
 
 This repository contains the course notes and exercises for various subjects:
 
-- Introduction to python, using conda
+- [Introduction to python, conda, jupyter](https://github.com/twistresources/training-courses/wiki/Introduction-to-Python#introduction-to-python)
 - Using the AR4 robot arm
 - Useme.tv
 - Machine Learning and AI
